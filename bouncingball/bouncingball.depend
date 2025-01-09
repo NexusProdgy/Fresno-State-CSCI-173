@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1706309230 source:c:\users\jayes\downloads\csci 173\bouncingball\main.cpp
+	<String.h>
+	<GL/glut.h>
+	<Math.h>
+
+1706303673 c:\users\jayes\downloads\csci 173\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
